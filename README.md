@@ -101,11 +101,3 @@ The following models were tested, and their performance is summarized below:
 
 Feel free to reach out for any questions or suggestions:
 - Email: adrijadastidar@example.com
-
----
-
-To fix the issue with the Table of Contents links not working, you need to adjust the links to match GitHub's Markdown anchor link format. GitHub automatically converts headings into anchor links, typically by making them lowercase and replacing spaces with hyphens. Special characters are also removed.
-
-Here's the updated `README.md` with corrected anchor links:
-
----
